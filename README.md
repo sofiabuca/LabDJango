@@ -1,0 +1,2 @@
+# LabDJango
+ Django authentication
